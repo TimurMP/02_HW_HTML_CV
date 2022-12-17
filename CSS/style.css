@@ -5,6 +5,7 @@ body{
     font-size: 18px;
 
 }
+
 h1,p, div {
     text-align: center;
 }
@@ -32,4 +33,11 @@ table {
 td, th {
     border: 1px solid darkblue;
 }
+
+/*#CP*/
+/*{*/
+/*    width: 450px; height: 100px;*/
+
+
+/*}*/
 
